@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'PromptIO',
-  tagline: 'ChatGPT Job Search Guide',
+  tagline: 'Promptio',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -19,7 +19,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'promptio', // Usually your GitHub org/user name.
-  projectName: 'ChatGPT Job Search Guide', // Usually your repo name.
+  projectName: 'Promptio', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -56,7 +56,7 @@ const config = {
     ({
       // Replace with your project's social card
       navbar: {
-        title: 'ChatGPT Job Search Guide',
+        title: 'Promptio',
         logo: {
           alt: 'PromptIO Logo',
           src: 'img/logo.png',

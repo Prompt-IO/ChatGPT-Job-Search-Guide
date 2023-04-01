@@ -1,18 +1,18 @@
 ---
-sidebar_position: 2
+sidebar_position: 20
 ---
 
 # Cover Letter
 
 ### Step 1. Create a draft cover letter
 
-Just like resume, you can use ChatGPT to create a draft based on a few sentences. 
-**Example Prompts: **
+Just like resume, you can use chatbot to create a draft based on a few sentences. 
+**Example Prompts:**
 > Write a new grad software engineer cover letter base on Text
 > 
 > Text: I just graduated from A university and major in B, I have one swe intership at C company using Java and Spring to develop restful API. I did project like search-engine (python) and youtube-like application (java)
 
-**ChatGPT Answer:**
+**Answer:**
 > Dear [Hiring Manager],
 > 
 > As a recent graduate with a degree in [major] from [University], I am excited to apply for the Software Engineer position at [Company]. As a budding software professional, I have completed an internship at [C Company], where I had the opportunity to work on real-world projects as a Software Engineer.
@@ -34,7 +34,7 @@ Just like resume, you can use ChatGPT to create a draft based on a few sentences
 Tailor the cover letter to the job qualifications and job responsibilities of your target position, use **Fixing Soulless Writing** problem, you can use the keywords at [ChatGPT3-Free-Prompt-List](https://github.com/mattnigh/ChatGPT3-Free-Prompt-List#prompt-refinement-fixing-soulless-writing) like Encourage creativity, Use vivid language or use a mix of the writing styles of [name of several your favorite writers or editors].
 
 
-**Example Prompts: **
+**Example Prompts:**
 > These is the job qualifications and responsibilities I'm applying for
 > 
 > Qualifications: 
@@ -51,7 +51,7 @@ Tailor the cover letter to the job qualifications and job responsibilities of yo
 > 
 > Text: Modify this cover letter use the writing styles of Albert Camus with 300 words to show I meet job qualifications and job responsibilities requirements.
 
-**ChatGPT Answer:**
+**Answer:**
 > Dear [Hiring Manager],
 > 
 > I am excited to apply for the role of Software Engineer at [Company]. As a graduate with a Bachelor's degree in Computer Science, I have amassed valuable experience in writing and testing product or system development code. I possess critical knowledge in programming languages and data structures/algorithms, which I have applied throughout my career.

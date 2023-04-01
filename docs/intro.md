@@ -3,17 +3,19 @@ slug: /
 sidebar_position: 1
 ---
 
-# ChatGPT Job Search Guide
+# Promptio
 
-This guide will introduce how to use ChatGPT or similar chatbots to improve the efficiency of software engineers' interview preparation. In addition to utilizing ChatGPT to obtain answers, we will also learn its methods for solving complex problems and answering questions within a structured framework. Concrete prompt examples and usage samples will be provided in the following chapters.
+## Prepare software engineer interview with prompt engineering
 
-> **Note:** Sometimes ChatGPT may provide seemingly correct but inaccurate answers. Please take ChatGPT's responses as reference opinions, especially when you are unable to verify their correctness through other channels.
+This guide will introduce how to use chatbot (like ChatGPT, Bard) to improve the efficiency of software engineers' interview preparation. In addition to utilizing chatbot to obtain answers, we will also learn its methods for solving complex problems and answering questions within a structured framework. Concrete prompt examples and usage samples will be provided in the following chapters.
+
+> **Note:** Sometimes chatbot may provide seemingly correct but inaccurate answers. Please take chatbot's responses as reference opinions, especially when you are unable to verify their correctness through other resources.
 
 ## prompt engineering
 
-Prompt engineering refers to the process of designing appropriate prompts and workflows to interact with ChatGPT. The emergence of ChatGPT is like that of a search engine like Google. Learning how to use it can greatly improve our daily work or life efficiency. However, while it can save you a lot of time, it cannot replace your own thinking and exploration.
+Prompt engineering refers to the process of designing appropriate prompts and workflows to interact with chatbot. The emergence of chatbot is like that of a search engine like Google. Learning how to use it can greatly improve our daily work or life efficiency. However, while it can save you a lot of time, it cannot replace your own thinking and exploration.
 
-> **Note:** The DIKW model explains the relationship between data, information, knowledge, and wisdom. Search engines collect data and organize it into information for users. ChatGPT goes further by integrating information to present knowledge, and even wisdom.
+> **Note:** The DIKW model explains the relationship between data, information, knowledge, and wisdom. Search engines collect data and organize it into information for users. chatbot goes further by integrating information to present knowledge, and even wisdom.
 
 Regarding the study of prompt engineering, We strongly recommend two official guides from OpenAI:
 

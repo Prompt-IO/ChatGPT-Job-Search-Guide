@@ -1,14 +1,14 @@
 ---
-sidebar_position: 1
+sidebar_position: 10
 ---
 
 # Resume
 
 ### Step 1. Create a draft resume
 
-If you do not have a resume, you can use ChatGPT to create a draft based on a few sentences summarizing your background and experience. If you already have a resume, you can put your resume as Example Prompts.
+If you do not have a resume, you can use chatbot to create a draft based on a few sentences summarizing your background and experience. If you already have a resume, you can put your resume as Example Prompts.
 
-**Example Prompts: **
+**Example Prompts:**
 > Write a new grad software engineer resume
 > 
 > Desired format:
@@ -25,7 +25,7 @@ If you do not have a resume, you can use ChatGPT to create a draft based on a fe
 
 > Text: I just graduated from A university and major in B, I have one swe intership at C company using Java and Spring to develop restful API. I did project like search-engine (python) and youtube-like application (java)
 
-**ChatGPT Answer: **
+**Answer:**
 > Education: Bachelor of Science in Computer Science, A University
 > 
 > Skills: Java, Spring, Python, Restful API development, Object-Oriented Programming, Data Structures and Algorithms, Git
@@ -49,7 +49,7 @@ If you do not have a resume, you can use ChatGPT to create a draft based on a fe
 
 Tailor your resume to the job qualifications and job responsibilities of your target position
 
-**Example Prompts: **
+**Example Prompts:**
 > These is the job qualifications and responsibilities I'm applying for
 > 
 > Qualifications: 
@@ -66,7 +66,7 @@ Tailor your resume to the job qualifications and job responsibilities of your ta
 > 
 > Text: Modify the project description on my resume to meet Qualifications and Responsibilities requirements.
 
-**ChatGPT Answer: **
+**Answer:**
 > Experience:
 > Software Developer at X Company
 >   - Collaborated with a team of engineers to develop and launch software products
@@ -89,9 +89,10 @@ Tailor your resume to the job qualifications and job responsibilities of your ta
 
 Add numbers and metrics to make your resume more impressive, however, remember to modify the numbers according to the actual situation. 
 
-**Example Prompts**
+**Example Prompts:**
 > Try to add 5 example numbers and metrics in the Experience and Projects des like reduce 50% API request time to make it more impressive
->
+
+**Answer:**
 > Experience:
 > Software Developer at X Company
 >   - Developed and launched 3 successful software products in a team of 5 within a timeframe of 6 months

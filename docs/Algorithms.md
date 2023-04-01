@@ -1,8 +1,8 @@
 ---
-sidebar_position: 2
+sidebar_position: 40
 ---
 
-# How to practice
+# Algorithms
 
 When practicing algorithms, it's important to hone your problem-solving skills by familiarizing yourself with the problem, compiling a list of test cases, and analyzing the issue thoroughly. As your partner, ChatGPT can help you by providing solutions, allowing you to learn from its analysis and summary skills.
 
@@ -16,7 +16,7 @@ First, learn how ChatGPT understand the problem, let's use the classis Two Sum p
 > 
 > Explain the problem step by step use basic english with example
 
-**ChatGPT Answer:**
+**Answer:**
 
 > Sure, here's a step-by-step explanation of the problem in simple English with an example:
 > 
@@ -35,7 +35,7 @@ If you don't know how to solve this problem, don't ask for the answer directly, 
 **Example Prompts:**
 > I don't know how to solve this problem. Can you give me 3 hints (question base) so I can solve it easier?
 
-**ChatGPT Answer:**
+**Answer:**
 > Of course, here are three question-based hints to help you solve the problem:
 > 
 > 1. What is the target number and how can you use it to determine which pair of numbers in the array you need to find?
@@ -47,7 +47,7 @@ If you don't know how to solve this problem, don't ask for the answer directly, 
 **Example Prompts:**
 > Tell me your analyse process step by step how to solve this problem?
 
-**ChatGPT Answer:**
+**Answer:**
 > Sure, here is a step-by-step process to solve the problem:
 >
 > First, we need to understand the problem requirements and constraints. The problem statement specifies that we have an array filled with different numbers and a target number, and we need to find two numbers within the array that add up to the target number. We can only use each number in the array once.
@@ -58,12 +58,12 @@ If you don't know how to solve this problem, don't ask for the answer directly, 
 >
 > After we have identified the pair that adds up to the target number, we can return the two numbers in any order as specified in the problem statement.
 
-### Find Test Cases
+## Find Test Cases
 
 **Example Prompts:**
 > Tell me your analyse process step by step how to find out 3 test cases include the normal case and edge case?
 
-**ChatGPT Answer:**
+**Answer:**
 > Sure, here's my step-by-step process for finding three test cases for the problem:
 > 
 > 1. Review the problem statement and identify the key requirements and constraints. In this case, I need to find two numbers from an array that add up to a target number, while using each number only once.
@@ -72,14 +72,14 @@ If you don't know how to solve this problem, don't ask for the answer directly, 
 >       - An array where the target sum can only be achieved by adding the first and last element of the array.
 >       - An array where all the numbers are identical and the target sum can only be achieved by pairing the same two elements.
 
-### List Test Cases
+## List Test Cases
 
 Generally speaking, you need to find different kind of test cases yourself inculde the normal cases and edge cases. You can ask ChatGPT to provide some test cases.
 
 **Example Prompts:**
 > List 3 test cases with expected answers, test cases should include normal cases as well as edge cases.
 
-**ChatGPT Answer:**
+**Answer:**
 > Sure, here are three test cases with expected answers:
 > 
 > Normal Case:
@@ -110,7 +110,7 @@ Generally speaking, you need to find different kind of test cases yourself incul
 >                     if nums[i] + nums[j] == target:
 >                         return [i, j]
 
-**ChatGPT Answer:**
+**Answer:**
 
 > The time complexity of the solution is O(n^2), where n is the length of the input list nums.
 > 
@@ -144,7 +144,7 @@ Let chatgpt to review your code in order to receive feedback
 >                         return [i, j]
 >         return []
 
-**ChatGPT Answer:**
+**Answer:**
 > 1. Add comments to explain the purpose of the code block.
 > 2. Remove unused code, in this case the commented out lst = [] line.
 > 3. Rename variables with more descriptive names. In this case, n could be renamed to num_elements.
